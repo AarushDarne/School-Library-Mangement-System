@@ -1,0 +1,5 @@
+SQLAlchemy==1.4.41
+PyQt6==6.4.0
+python-barcode==0.14.0
+Pillow==9.3.0
+pyzbar==0.1.9
