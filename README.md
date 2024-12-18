@@ -3,7 +3,7 @@
 A modern, feature-rich library management system designed specifically for schools, with class/division management and automated notifications.
 
 ## Created and Maintained by
-[@AarushDarne](https://github.com/AarushDarne) (Aarush Darne) 
+[@AarushDarne](https://github.com/AarushDarne) (Aarush Darne) and
 [Aad1vk] (https://github.com/@Aad1vk) (Aadvik Pandey)
 
 ## Features
