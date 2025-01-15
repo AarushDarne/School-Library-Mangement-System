@@ -27,3 +27,32 @@ A modern, feature-rich library management system designed specifically for schoo
 - Automated scheduler for notifications
 - Class-wise statistics and reporting
 
+
+## **Technologies Used**  
+### **Frontend:**  
+- **PyQt6**: For a desktop-based modern user interface.  
+
+### **Backend:**  
+- **Python**: Core logic and functionality.  
+- **Django Rest Framework (Optional for API)**: To expose backend functionalities via APIs (if needed).  
+
+### **Database:**  
+- **SQLAlchemy**: For efficient database interactions.  
+
+### **Other Tools:**  
+- **Barcode Generator and Scanner**: For efficient book cataloging.  
+- **Email Libraries**: Automated email notifications.  
+- **Scheduler (e.g., APScheduler)**: Task automation for notifications.  
+
+## **Setup and Installation**  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-repo-name/school-library-management.git
+   cd school-library-management
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   python main.py
+
