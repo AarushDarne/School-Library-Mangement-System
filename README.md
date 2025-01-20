@@ -4,7 +4,7 @@ A modern, feature-rich library management system designed specifically for schoo
 
 ## Created and Maintained by
 [@AarushDarne](https://github.com/AarushDarne) (Aarush Darne),
-[@Aad1vk](https://github.com/Aad1vk) (Aadvik Pandey),
+[@Aadv1k](https://github.com/Aadv1k) (Aadvik Pandey),
 [@Agastya](https://github.com/agm024) (Agastya Malunjkar)
 
 ## Features
