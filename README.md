@@ -4,7 +4,7 @@ A modern, feature-rich library management system designed specifically for schoo
 
 ## Created and Maintained by
 
-[@AarushDarne](https://github.com/AarushDarne)
+[@Aarush](https://github.com/AarushDarne)
 [@Aadv1k](https://github.com/Aadv1k) (Aadvik Pandey),
 [@Agastya](https://github.com/agm024) (Agastya Malunjkar)
 
@@ -22,10 +22,8 @@ A modern, feature-rich library management system designed specifically for schoo
 ## Technical Features
 
 - Barcode generation and scanning
-- Email notification system
 - SQLAlchemy ORM for database management
 - PyQt6 for modern UI
-- Automated scheduler for notifications
 - Class-wise statistics and reporting
 
 
@@ -40,20 +38,4 @@ A modern, feature-rich library management system designed specifically for schoo
 ### **Database:**  
 - **SQLAlchemy**: For efficient database interactions.  
 
-### **Other Tools:**  
-- **Barcode Generator and Scanner**: For efficient book cataloging.  
-- **Email Libraries**: Automated email notifications.  
-- **Scheduler (e.g., APScheduler)**: Task automation for notifications.  
-
-## **Setup and Installation**  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-repo-name/school-library-management.git
-   cd school-library-management
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Run the application:
-   ```bash
-   python main.py
 
