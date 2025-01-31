@@ -47,7 +47,7 @@ A modern, feature-rich **library management system** designed specifically for *
 - **SQLAlchemy** → ORM for efficient database interaction  
 
 
-## 📜 **(License)[LICENSE]**  
+## 📜 **[LICENSE](License)**  
 This project is licensed under the **Apache License 2.0**.  
 
 
